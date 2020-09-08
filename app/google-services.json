@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531856672980",
+    "firebase_url": "https://chat-app-c9403.firebaseio.com",
+    "project_id": "chat-app-c9403",
+    "storage_bucket": "chat-app-c9403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531856672980:android:10c72d6e5660a6014ad341",
+        "android_client_info": {
+          "package_name": "slode.elsloude.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531856672980-81gmk921k4m72b20mirlookqj6787tui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "slode.elsloude.chatapp",
+            "certificate_hash": "236c49f50dc1b25d7562a43407b088ebc58d9734"
+          }
+        },
+        {
+          "client_id": "531856672980-cfhu608ukrai4nmdhn24m5i3b58tu6l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDJNHT_nXODRMODK8eth29DOhAEE1Bv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531856672980-cfhu608ukrai4nmdhn24m5i3b58tu6l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
